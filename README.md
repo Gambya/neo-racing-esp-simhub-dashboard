@@ -2,10 +2,10 @@
 
 ![ESP-SimHub Logo](https://www.simhubdash.com/wp-content/uploads/2017/09/gamehub-icon-small-text-1.png)
 
-![screen-shot](https://github.com/Gambya/neo-racing-esp-simhub-dashboard/assets/display_example01.jpg)
+![screen-shot](https://github.com/Gambya/neo-racing-esp-simhub-dashboard/blob/main/assets/diplay_example01.jpg)
 
 ## Connection Diagram
-![connection diagram](https://github.com/Gambya/neo-racing-esp-simhub-dashboard/assets/esp32_display.png)
+![connection diagram](https://github.com/Gambya/neo-racing-esp-simhub-dashboard/blob/main/assets/esp32_display.png)
 
 A placa ESP32-2432S028 já vem com o esp32 embitido na pcb, conforme imagem acima. Existem portas io disponíveis para extender o projeto além da dashboard.
 
